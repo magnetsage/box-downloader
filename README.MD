@@ -1,5 +1,7 @@
 # box.com downloader script
 
+Simple python script that downloads a PDF document hosted on box.com that restricts downloads
+
 ## Prerequisits
 
 - Python 3.12.3

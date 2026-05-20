@@ -24,5 +24,5 @@ playwright install firefox
 ## Run the script
 
 ```bash
-.venv/bin/python main.path
+.venv/bin/python main.py
 ```
